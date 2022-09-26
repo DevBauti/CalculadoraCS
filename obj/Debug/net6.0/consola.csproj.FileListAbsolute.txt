@@ -1,0 +1,15 @@
+D:\repo\programasC\consola\bin\Debug\net6.0\consola.exe
+D:\repo\programasC\consola\bin\Debug\net6.0\consola.deps.json
+D:\repo\programasC\consola\bin\Debug\net6.0\consola.runtimeconfig.json
+D:\repo\programasC\consola\bin\Debug\net6.0\consola.dll
+D:\repo\programasC\consola\bin\Debug\net6.0\consola.pdb
+D:\repo\programasC\consola\obj\Debug\net6.0\consola.csproj.AssemblyReference.cache
+D:\repo\programasC\consola\obj\Debug\net6.0\consola.GeneratedMSBuildEditorConfig.editorconfig
+D:\repo\programasC\consola\obj\Debug\net6.0\consola.AssemblyInfoInputs.cache
+D:\repo\programasC\consola\obj\Debug\net6.0\consola.AssemblyInfo.cs
+D:\repo\programasC\consola\obj\Debug\net6.0\consola.csproj.CoreCompileInputs.cache
+D:\repo\programasC\consola\obj\Debug\net6.0\consola.dll
+D:\repo\programasC\consola\obj\Debug\net6.0\refint\consola.dll
+D:\repo\programasC\consola\obj\Debug\net6.0\consola.pdb
+D:\repo\programasC\consola\obj\Debug\net6.0\consola.genruntimeconfig.cache
+D:\repo\programasC\consola\obj\Debug\net6.0\ref\consola.dll
